@@ -17,4 +17,4 @@ Features:
   - Using statements such as if and else
   - Working with logical operators
   - Writing clean ans structures Python code
-  - Debugging errors and fixing indentation issues
+
