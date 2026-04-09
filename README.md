@@ -15,6 +15,6 @@ Features:
 
   What I learned:
   - Using statements such as if and else
-  - Working with logical operators
+  - Working with logical operators 
   - Writing clean ans structures Python code
 
